@@ -357,8 +357,15 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/AnimateMovement.cs"
 "Assets/Scripts/AvatarAppearance.cs"
+"Assets/Scripts/Boundaries.cs"
+"Assets/Scripts/CollectibleAttribute.cs"
+"Assets/Scripts/DestroyAfterTime.cs"
+"Assets/Scripts/FallingLeaves.cs"
 "Assets/Scripts/Jump.cs"
 "Assets/Scripts/Movement.cs"
+"Assets/Scripts/Reset.cs"
+"Assets/Scripts/Score.cs"
+"Assets/Scripts/Teleport.cs"
 -langversion:9.0
 
 /deterministic
